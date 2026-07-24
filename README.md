@@ -13,18 +13,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Alina 👋
+# Hi, I'm Alina! 👋
 
-I'm a rising junior at Duke University studying Computer Science and Economics.
+🎓 Rising junior at Duke University studying **Computer Science & Economics**
 
-## About Me
-I'm interested in software engineering, AI, and product management. I enjoy building products that combine technical innovation with user-centered design and data-driven decision making.
+I'm passionate about building products at the intersection of **software engineering, AI, and product management**. I enjoy transforming user needs into technical solutions by combining engineering, data, and thoughtful product strategy. My experiences span software engineering, AI/ML, and product management, where I've worked on AI-powered applications, research commercialization tools, and data-driven product development.
 
-## Currently
+Currently:
 - 📺 Product Content Intern @ DIRECTV
 - 🤖 AI/ML Fellow @ Break Through Tech
+- 💡 Exploring product management, AI, and full-stack development
 
-## Tech
-Python • Java • SQL • C • Git • AI/ML
+---
 
-📫 Reach me: alinadang06@gmail.com or alina.dang@duke.edu
+## 🚀 Featured Project
+
+### 🧠 ResearchCustomAI
+An AI-powered platform that helps researchers accelerate commercialization by streamlining customer discovery, market research, and opportunity evaluation using retrieval-augmented generation (RAG) and large language models.
+
+**Tech:** Python • LangChain • RAG • LLMs
+
+➡️ Check out the project here: [ResearchCustomAI](link)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python • Java • SQL • JavaScript
+
+**AI / ML**
+- PyTorch • Hugging Face • scikit-learn • pandas
+
+**Web**
+- React • Next.js • Tailwind CSS
+
+**Tools**
+- Git • Docker • PostgreSQL • Streamlit • Figma
+
+---
+
+## 🌱 Currently Learning
+
+- Building production-ready AI applications
+- AI product strategy and evaluation
+- Full-stack development with React & Next.js
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 📧 Email: alinadang06@gmail.com or alina.dang@duke.edu
