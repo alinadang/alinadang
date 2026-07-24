@@ -23,7 +23,6 @@ I'm interested in software engineering, AI, and product management. I enjoy buil
 ## Currently
 - 📺 Product Content Intern @ DIRECTV
 - 🤖 AI/ML Fellow @ Break Through Tech
-- 💻 Learning more about AI, full-stack development, and product strategy
 
 ## Tech
 Python • Java • SQL • C • Git • AI/ML
