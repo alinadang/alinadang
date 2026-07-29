@@ -29,12 +29,12 @@ Currently:
 ## 🚀 Featured Project
 
 ### 🧠 ResearchCustomAI
-An AI-powered platform that helps researchers accelerate commercialization by streamlining customer discovery, market research, and opportunity evaluation using retrieval-augmented generation (RAG) and large language models.
+An AI-powered platform that helps researchers accelerate commercialization by streamlining customer discovery, market research, and opportunity evaluation using **Retrieval-Augmented Generation (RAG)** and large language models.
 
-**Tech:** Python • LangChain • RAG • LLMs
+**Tech Stack:** Python • LangChain • RAG • LLMs
 
-➡️ Check out the project here:
-[ResearchCustomAI](https://github.com/alinadang/ResearchCustomAI)
+🔗 **GitHub:** [ResearchCustomAI](https://github.com/alinadang/ResearchCustomAI)
+
 ---
 
 ## 🛠 Tech Stack
