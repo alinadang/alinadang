@@ -63,5 +63,5 @@ An AI-powered platform that helps researchers accelerate commercialization by st
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💼 LinkedIn: https://www.linkedin.com/in/alina-dang-8358692a6/
 - 📧 Email: alinadang06@gmail.com or alina.dang@duke.edu
