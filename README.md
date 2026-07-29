@@ -33,7 +33,8 @@ An AI-powered platform that helps researchers accelerate commercialization by st
 
 **Tech:** Python • LangChain • RAG • LLMs
 
-➡️ Check out the project here: [ResearchCustomAI]([https://github.com/alinadang/ResearchCustomAI])
+➡️ Check out the project here:
+[ResearchCustomAI](https://github.com/alinadang/ResearchCustomAI)
 ---
 
 ## 🛠 Tech Stack
